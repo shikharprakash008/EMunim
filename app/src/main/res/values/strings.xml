@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CreditInfo</string>
+    <string name="app_name"> e-munim</string>
 
     <!-- Slide 1 Title and description-->
     <string name="slide1_desc">Record transactions easily</string>
